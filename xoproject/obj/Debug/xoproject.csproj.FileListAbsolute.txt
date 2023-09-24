@@ -1,0 +1,10 @@
+D:\C#\XO Project\xoproject\bin\Debug\xoproject.exe.config
+D:\C#\XO Project\xoproject\bin\Debug\xoproject.exe
+D:\C#\XO Project\xoproject\bin\Debug\xoproject.pdb
+D:\C#\XO Project\xoproject\obj\Debug\xoproject.csproj.AssemblyReference.cache
+D:\C#\XO Project\xoproject\obj\Debug\xoproject.form.resources
+D:\C#\XO Project\xoproject\obj\Debug\xoproject.Properties.Resources.resources
+D:\C#\XO Project\xoproject\obj\Debug\xoproject.csproj.GenerateResource.cache
+D:\C#\XO Project\xoproject\obj\Debug\xoproject.csproj.CoreCompileInputs.cache
+D:\C#\XO Project\xoproject\obj\Debug\xoproject.exe
+D:\C#\XO Project\xoproject\obj\Debug\xoproject.pdb
